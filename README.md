@@ -1,4 +1,4 @@
-# ChatGPT Read Aloud Mover
+# ChatGPT Read Aloud
 
 A Chrome extension that restores and enhances ChatGPT's "Read Aloud" experience. It injects a dedicated speaker button next to every assistant response, reuses the native playback UI, and optionally auto-starts narration as soon as a reply is ready.
 
