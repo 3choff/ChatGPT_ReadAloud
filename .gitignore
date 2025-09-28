@@ -1,0 +1,27 @@
+# Node / tooling artifacts
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+build/
+dist/
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Local cache/state
+*.swp
+npm-debug.log*
+
+# Ignore history snapshots
+versions/
